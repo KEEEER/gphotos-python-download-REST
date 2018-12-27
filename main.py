@@ -9,7 +9,6 @@ import requests
 client_id = "fill"
 client_secret = "fill"
 refresh_token = "fill"
-database = "https://photoslibrary.googleapis.com/v1/mediaItems"
 
 params = {
         'access_token' : "no",
