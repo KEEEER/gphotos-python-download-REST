@@ -1,5 +1,5 @@
 # gdrive-python-download-REST
-download google drive files (include empty folders)
+download google photos albums and mediaIitems
 # Features
     1.list albums and mediaItems
     2.download new added albums and mediaItems
